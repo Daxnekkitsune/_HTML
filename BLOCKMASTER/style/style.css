@@ -1,0 +1,51 @@
+#body{
+    background-color: rgb(12, 12, 12);
+    height: 2000px;
+    background-image: url(../img/Fonsdo.png);
+}
+
+main{
+    height: 50%;
+}
+
+.carousel-item img {
+    height: 460px;
+}
+
+.card img{
+    height: 350px;
+    width: 300px;
+}
+
+#peli{
+margin-top: 90px;
+width: 1300px;
+text-align: center;
+margin: 0 auto;
+}
+
+.cardW{
+    margin: 20px;
+}
+
+#fila2{
+margin-top: 30px;
+
+}
+
+div.carta{
+    background-color: rgba(5, 5, 5, 0.432);
+    color: white;
+}
+
+#img{
+    margin-left: 3px;
+}
+
+#carouselExampleIndicators{
+    margin-top: 100px;
+}
+
+header{
+    background-color: black;
+}
