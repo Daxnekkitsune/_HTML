@@ -1,0 +1,9 @@
+#body{
+    background-color: rgb(12, 12, 12);
+    height: 1400px;
+    background-image: url(../img/image\ \(2\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+

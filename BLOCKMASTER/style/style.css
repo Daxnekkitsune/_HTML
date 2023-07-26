@@ -46,6 +46,47 @@ div.carta{
     margin-top: 100px;
 }
 
+
+#carouselExampleIndicators{
+    width: 1295px;
+    text-align: center;
+    margin-left: 16%;
+}
+#bt{
+    margin-left: -450px;
+    
+}
+
+#Barras{
+    margin-right: 400px;
+}
+
 header{
     background-color: black;
+    color: white;
+    
 }
+
+.menu .lista{
+    display: inline-block;
+    margin-left: 300px;
+  
+}
+
+#mas{
+    margin-left: 45px;
+    color: white;
+}
+#men{
+    margin-left: 45px;
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+   
+}
+h1{
+    margin-left: 50%;
+}
+
